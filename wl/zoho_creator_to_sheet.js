@@ -2,8 +2,8 @@
  * Script to import a Zoho Creator report to a Google Sheet
  * 
  * Required script properties:
- *  access_token
- *  owner_name
+ *  access_token : See https://www.zoho.com/creator/help/api/prerequisites/generate-auth-token.html
+ *  owner_name   : Application owner username. Usually displayed on report URLs.
  */
 
 /**
